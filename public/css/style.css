@@ -1,0 +1,123 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body{
+    background: linear-gradient(to bottom right, #11998E, #38EF7D);
+
+    height: 100vh;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+section{
+    background: rgba(0, 0, 0, 0.5);
+    width: 45%;
+    height: 90%;
+
+    padding: 2em;
+
+    overflow: auto;
+}
+
+.list_item{
+    height: 60px;
+    margin-bottom: 2vh;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    background: rgba(0, 0, 0, 0.5);
+
+    cursor: pointer;
+}
+    .list_item__img{
+        height: 100%;
+        width: auto;
+
+        margin-right: 10px;
+    }
+    .list_item__title{
+        color: #fff;
+        font-size: 30px;
+        font-weight: bold;
+
+        margin-right: 10px;
+    }
+    .list_item__date{
+        padding-top: 14px;
+        color: #aaa;
+        font-size: 10px;
+    }
+
+
+.current_img{
+    height: 20vw;
+    width: 20vw;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+}
+.link_item{
+    height: 60px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    background: rgba(0, 0, 0, 0.5);
+
+    cursor: pointer;
+}
+    .link_item__svg_wrapper{
+        height: 60px;
+        width: 60px;
+
+        background: #000;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        margin-right: 20px;
+    }
+    .link_item__svg{
+        fill: #fff;
+        height: 70%;
+        width: auto;
+
+        filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3))
+        drop-shadow(-1px -1px 1px rgba(0, 0, 0, 0.3))
+        drop-shadow(1px -1px 1px rgba(0, 0, 0, 0.3))
+        drop-shadow(-1px 1px 1px rgba(0, 0, 0, 0.3));
+    }
+    .link_item__provider{
+        color: #fff;
+        font-size: 30px;
+        font-weight: bold;
+
+        margin-right: 10px;
+    }
+    .link_item__exit{
+        fill: #fff;
+    }
