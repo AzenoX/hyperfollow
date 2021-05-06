@@ -1,10 +1,12 @@
 <?php
 
+use Laravel\Lumen\Routing\Router;
+
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-/** @var \Laravel\Lumen\Routing\Router $router */
+/** @var Router $router */
 
 /*
 |--------------------------------------------------------------------------
@@ -17,4 +19,4 @@ error_reporting(E_ALL);
 |
 */
 
-$router->get('/', ['as' => 'home', 'uses' => 'HomeController@index']);
+$router->get('/[{id:[a-z0-9_-]+}]', ['as' => 'home', 'uses' => 'HomeController@index']);

@@ -1,0 +1,190 @@
+{
+    "musics": {
+        "wandering": {
+            "name": "Wandering",
+            "date": "20/02/2021",
+            "image": "https://i1.sndcdn.com/artworks-A1ZJjwwe1b3Dyq1f-6AZF5g-t200x200.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=P3llriOnFlU",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/wandering",
+                "spotify": "https://open.spotify.com/track/7fCHaDfCb2qMoNlp54vQyV?si=8930497dbb3c4cb9",
+                "apple_music": "https://music.apple.com/us/album/wandering/1554592012?i=1554592013",
+                "deezer": "https://www.deezer.com/fr/track/1250730132"
+            }
+        },
+        "scream": {
+            "name": "Scream",
+            "date": "07/11/2020",
+            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=EFHLv6T858Q",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/scream"
+            }
+        },
+        "loop": {
+            "name": "Loop",
+            "date": "27/06/2020",
+            "image": "https://i1.sndcdn.com/artworks-NKdPswlsAbRkaETA-Ais6qw-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=TjD_FsveYfs",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/loop"
+            }
+        },
+        "feel_the_future": {
+            "name": "Feel The Future",
+            "date": "02/06/2020",
+            "image": "https://i1.sndcdn.com/artworks-Av2RrZatyxNVh0zX-kH0gZg-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=lgMt0hx_A8E",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/feel-the-future"
+            }
+        },
+        "legacy": {
+            "name": "Legacy",
+            "date": "07/03/2020",
+            "image": "https://i1.sndcdn.com/artworks-kIJwWUTUofqZiJ6f-5agyWA-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=15nwKBaYkYg",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/legacy"
+            }
+        },
+        "dreams": {
+            "name": "Dreams",
+            "date": "20/01/2020",
+            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=oLt1OeMeTCk",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/dreams-1"
+            }
+        },
+        "davy_jones": {
+            "name": "Davy Jones",
+            "date": "24/11/2019",
+            "image": "https://i1.sndcdn.com/artworks-000642362536-tw1gst-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=1XG-GhxyuSc",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/davy-jones"
+            }
+        },
+        "aurora": {
+            "name": "Aurora",
+            "date": "12/10/2019",
+            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=yzhLtgSOpIY",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/aurora"
+            }
+        },
+        "hope": {
+            "name": "Hope",
+            "date": "23/09/2019",
+            "image": "https://i1.sndcdn.com/artworks-000596907452-c5w7b3-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=VdhG2ekoyfc",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/hope"
+            }
+        },
+        "universe": {
+            "name": "Universe",
+            "date": "21/06/2019",
+            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=sisBUaaaDnk"
+            }
+        },
+        "interstellar_remix": {
+            "name": "Hans Zimmer - Interstellar Theme (AzenoX Remix)",
+            "date": "24/02/2019",
+            "image": "https://i1.sndcdn.com/artworks-000494103066-jri50h-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=NiBByUIogT8",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/hans-zimmer-interstellar-azenox-remix-melodic-dubstep"
+            }
+        },
+        "peacekeeper": {
+            "name": "Peacekeeper",
+            "date": "17/02/2019",
+            "image": "https://i1.sndcdn.com/artworks-000489719832-kxa1de-t500x500.jpg",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=lII47K_p3B4",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/peacekeeper"
+            }
+        },
+        "sky2": {
+            "name": "Sky pt.II",
+            "date": "06/02/2019",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=4NJlguSqTj8",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/sky-ptii"
+            }
+        },
+        "in_the_darkness": {
+            "name": "In the Darkness",
+            "date": "04/12/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=N3jhqQwVYWE",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/in-the-darkness"
+            }
+        },
+        "miss_you": {
+            "name": "Miss you",
+            "date": "19/11/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=XUy_YANlbGM",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/miss-you"
+            }
+        },
+        "galaxy": {
+            "name": "Galaxy",
+            "date": "05/10/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=qzmeaKgV1Uk",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/galaxy"
+            }
+        },
+        "vortex": {
+            "name": "Vortex",
+            "date": "16/09/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=SC2juM2BMOk"
+            }
+        },
+        "Space": {
+            "name": "Space",
+            "date": "25/08/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=Kq-h6_a0xO"
+            }
+        },
+        "evil_morty_remix": {
+            "name": "Rick et Morty - Evil Morty (AzenoX Remix)",
+            "date": "05/08/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=RmbYdNyGdGY"
+            }
+        },
+        "walking": {
+            "name": "Walking",
+            "date": "01/08/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=u4LCUKGi-oo"
+            }
+        },
+        "sky": {
+            "name": "Sky",
+            "date": "14/07/2018",
+            "image": "https://azenox.fr/azenox.png",
+            "providers": {
+                "youtube": "https://www.youtube.com/watch?v=KVXof7LT-YQ"
+            }
+        }
+    }
+}
