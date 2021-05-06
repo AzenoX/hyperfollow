@@ -2,14 +2,16 @@
 
 namespace App\Http\Controllers;
 
+use ErrorException;
 use Laravel\Lumen\Routing\UrlGenerator;
 
 class HomeController extends Controller
 {
+    const default = "wandering";
     /**
      * Create a new controller instance.
      */
-    public static function index($id = "wandering")
+    public static function index($id = self::default)
     {
         $baseurl = 'https://hyperfollow.azenox.fr';
 
@@ -17,9 +19,6 @@ class HomeController extends Controller
         $file = (new UrlGenerator(app()))->asset("musics.json", true);
         $content = file_get_contents($file);
         $json = json_decode($content);
-
-        //Find music
-        $music = $json->musics->{$id};
 
         //Define icon array
         $providers = [
@@ -55,14 +54,32 @@ class HomeController extends Controller
             ],
         ];
 
-        return view('home',
-            [
-                'baseurl' => $baseurl,
-                'music' => $music,
-                'providers' => $providers,
-                'json' => $json,
-                'css' => (new UrlGenerator(app()))->asset("css/style.css", true),
-            ]
-        );
+
+        try{
+            $music = $json->musics->{$id};
+
+            return view('home',
+                [
+                    'baseurl' => $baseurl,
+                    'music' => $music,
+                    'providers' => $providers,
+                    'json' => $json,
+                    'css' => (new UrlGenerator(app()))->asset("css/style.css", true),
+                ]
+            );
+        }
+        catch(ErrorException $e){
+            $music = $json->musics->{self::default};
+
+            return view('home',
+                [
+                    'baseurl' => $baseurl,
+                    'music' => $music,
+                    'providers' => $providers,
+                    'json' => $json,
+                    'css' => (new UrlGenerator(app()))->asset("css/style.css", true),
+                ]
+            );
+        }
     }
 }
