@@ -5,6 +5,7 @@
             "date": "20/02/2021",
             "image": "https://i1.sndcdn.com/artworks-A1ZJjwwe1b3Dyq1f-6AZF5g-t200x200.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Wandering.mp3",
                 "youtube": "https://www.youtube.com/watch?v=P3llriOnFlU",
                 "soundcloud": "https://soundcloud.com/azenoxmusics/wandering",
                 "spotify": "https://open.spotify.com/track/7fCHaDfCb2qMoNlp54vQyV?si=8930497dbb3c4cb9",
@@ -17,8 +18,12 @@
             "date": "07/11/2020",
             "image": "https://i.imgur.com/msfc7Fe.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Scream.mp3",
                 "youtube": "https://www.youtube.com/watch?v=EFHLv6T858Q",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/scream"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/scream",
+                "spotify": "https://open.spotify.com/album/4JgpayCNWHDmealdfQomuq",
+                "deezer": "https://www.deezer.com/fr/album/184801492",
+                "apple_music": "https://music.apple.com/us/album/scream-single/1539290427?uo=4"
             }
         },
         "loop": {
@@ -26,8 +31,12 @@
             "date": "27/06/2020",
             "image": "https://i1.sndcdn.com/artworks-NKdPswlsAbRkaETA-Ais6qw-t500x500.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Loop.mp3",
                 "youtube": "https://www.youtube.com/watch?v=TjD_FsveYfs",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/loop"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/loop",
+                "spotify": "https://open.spotify.com/album/1NIaBA1Qhtwp5cZXV3m2Br",
+                "deezer": "https://www.deezer.com/fr/album/162930632",
+                "apple_music": "https://music.apple.com/us/album/loop-single/1524945113?uo=4&app=music&at=1001lry3&ct=dashboard"
             }
         },
         "feel_the_future": {
@@ -35,8 +44,12 @@
             "date": "02/06/2020",
             "image": "https://i1.sndcdn.com/artworks-Av2RrZatyxNVh0zX-kH0gZg-t500x500.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Feel%20The%20Future.mp3",
                 "youtube": "https://www.youtube.com/watch?v=lgMt0hx_A8E",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/feel-the-future"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/feel-the-future",
+                "spotify": "https://open.spotify.com/album/5bh2W3KsqSqqD26TmMcPV8",
+                "deezer": "https://www.deezer.com/album/152115962",
+                "apple_music": "https://music.apple.com/us/album/feel-the-future-single/1516340503?uo=4"
             }
         },
         "legacy": {
@@ -44,35 +57,51 @@
             "date": "07/03/2020",
             "image": "https://i1.sndcdn.com/artworks-kIJwWUTUofqZiJ6f-5agyWA-t500x500.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Legacy.mp3",
                 "youtube": "https://www.youtube.com/watch?v=15nwKBaYkYg",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/legacy"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/legacy",
+                "spotify": "https://open.spotify.com/album/4UlPd3kmZrsgH0dNUKcXxx",
+                "deezer": "https://www.deezer.com/fr/album/135287512",
+                "apple_music": "https://music.apple.com/us/album/legacy-single/1501949338?app=music&ign-mpt=uo%3D4"
             }
         },
         "dreams": {
             "name": "Dreams",
             "date": "20/01/2020",
-            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "image": "https://i.imgur.com/aME7rox.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Dreams%20ft%20Victoria%20Fisher.mp3",
                 "youtube": "https://www.youtube.com/watch?v=oLt1OeMeTCk",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/dreams-1"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/dreams-1",
+                "spotify": "https://open.spotify.com/album/1T4CdqOdRrh2Ysv6KGpnS8",
+                "deezer": "https://www.deezer.com/fr/album/127582232",
+                "apple_music": "https://music.apple.com/us/album/dreams-feat-victoria-fisher-single/1496064798?app=music&ign-mpt=uo%3D4"
             }
         },
         "davy_jones": {
             "name": "Davy Jones",
             "date": "24/11/2019",
-            "image": "https://i1.sndcdn.com/artworks-000642362536-tw1gst-t500x500.jpg",
+            "image": "https://i.imgur.com/ouuhbvx.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Davy%20Jones.mp3",
                 "youtube": "https://www.youtube.com/watch?v=1XG-GhxyuSc",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/davy-jones"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/davy-jones",
+                "spotify": "https://open.spotify.com/album/46dt244eQMZQJZwDzxL9k0",
+                "deezer": "https://www.deezer.com/fr/album/120197162",
+                "apple_music": "https://music.apple.com/us/album/davy-jones-single/1489040327?ign-mpt=uo%3D4"
             }
         },
         "aurora": {
             "name": "Aurora",
             "date": "12/10/2019",
-            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "image": "https://i.imgur.com/ztTd1dW.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Aurora.mp3",
                 "youtube": "https://www.youtube.com/watch?v=yzhLtgSOpIY",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/aurora"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/aurora",
+                "spotify": "https://open.spotify.com/album/3l5AviXWkIzeXGLqDulTD3",
+                "deezer": "https://www.deezer.com/album/114846902?utm_source=deezer&utm_content=album-114846902&utm_term=2615686782_1571125595&utm_medium=web",
+                "apple_music": "https://music.apple.com/us/album/aurora-single/1483476582?ign-mpt=uo%3D4"
             }
         },
         "hope": {
@@ -80,8 +109,12 @@
             "date": "23/09/2019",
             "image": "https://i1.sndcdn.com/artworks-000596907452-c5w7b3-t500x500.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Hope.mp3",
                 "youtube": "https://www.youtube.com/watch?v=VdhG2ekoyfc",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/hope"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/hope",
+                "spotify": "https://open.spotify.com/track/5iJZYB6JvBy3gqqCGtKmCw",
+                "deezer": "https://www.deezer.com/album/112326752?utm_source=deezer&utm_content=album-112326752&utm_term=2615686782_1569674138&utm_medium=web",
+                "apple_music": "https://music.apple.com/us/album/hope/1481121827?i=1481121828"
             }
         },
         "universe": {
@@ -89,7 +122,9 @@
             "date": "21/06/2019",
             "image": "https://i.imgur.com/msfc7Fe.jpg",
             "providers": {
-                "youtube": "https://www.youtube.com/watch?v=sisBUaaaDnk"
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Universe.mp3",
+                "youtube": "https://www.youtube.com/watch?v=sisBUaaaDnk",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/universe"
             }
         },
         "interstellar_remix": {
@@ -97,8 +132,11 @@
             "date": "24/02/2019",
             "image": "https://i1.sndcdn.com/artworks-000494103066-jri50h-t500x500.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/Interstellar%20Theme%20(AzenoX%20remix).mp3",
                 "youtube": "https://www.youtube.com/watch?v=NiBByUIogT8",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/hans-zimmer-interstellar-azenox-remix-melodic-dubstep"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/hans-zimmer-interstellar-azenox-remix-melodic-dubstep",
+                "spotify": "https://open.spotify.com/track/3pqdqYx7ErPrFQ1NZTubBV",
+                "deezer": "https://www.deezer.com/fr/album/92159082"
             }
         },
         "peacekeeper": {
@@ -106,14 +144,18 @@
             "date": "17/02/2019",
             "image": "https://i1.sndcdn.com/artworks-000489719832-kxa1de-t500x500.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Peacekeeper.mp3",
                 "youtube": "https://www.youtube.com/watch?v=lII47K_p3B4",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/peacekeeper"
+                "soundcloud": "https://soundcloud.com/azenoxmusics/peacekeeper",
+                "spotify": "https://open.spotify.com/track/25iBAZ0m2ioXdxWq8qGh3V",
+                "deezer": "https://www.deezer.com/album/87724052?utm_source=deezer&utm_content=album-87724052&utm_term=2615686782_1550765207&utm_medium=web",
+                "apple_music": "https://itunes.apple.com/us/album/peacekeepers-single/1453519180?app=itunes&ign-mpt=uo%3D4"
             }
         },
         "sky2": {
             "name": "Sky pt.II",
             "date": "06/02/2019",
-            "image": "https://azenox.fr/azenox.png",
+            "image": "https://i.imgur.com/GoB11qe.jpg",
             "providers": {
                 "youtube": "https://www.youtube.com/watch?v=4NJlguSqTj8",
                 "soundcloud": "https://soundcloud.com/azenoxmusics/sky-ptii"
@@ -122,8 +164,9 @@
         "in_the_darkness": {
             "name": "In the Darkness",
             "date": "04/12/2018",
-            "image": "https://azenox.fr/azenox.png",
+            "image": "https://i.imgur.com/M5SpOZl.jpg",
             "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20In%20The%20Darkness.mp3",
                 "youtube": "https://www.youtube.com/watch?v=N3jhqQwVYWE",
                 "soundcloud": "https://soundcloud.com/azenoxmusics/in-the-darkness"
             }
@@ -131,7 +174,7 @@
         "miss_you": {
             "name": "Miss you",
             "date": "19/11/2018",
-            "image": "https://azenox.fr/azenox.png",
+            "image": "https://i.imgur.com/MksYPH5.jpg",
             "providers": {
                 "youtube": "https://www.youtube.com/watch?v=XUy_YANlbGM",
                 "soundcloud": "https://soundcloud.com/azenoxmusics/miss-you"
