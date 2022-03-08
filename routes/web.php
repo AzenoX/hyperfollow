@@ -1,9 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-        
 use Illuminate\Support\Facades\Route;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -22,6 +20,4 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 /** @var Router $router */
-
-
 Route::get('/[{id:[a-z0-9_-]+}]', ['as' => 'home', 'uses' => 'HomeController@index']);
