@@ -2,7 +2,7 @@
 
 use Laravel\Lumen\Routing\UrlGenerator;
 
-if (!function_exists('urlGenerator')) {
+if (! function_exists('urlGenerator')) {
     /**
      * @return \Laravel\Lumen\Routing\UrlGenerator
      */
@@ -12,7 +12,7 @@ if (!function_exists('urlGenerator')) {
     }
 }
 
-if (!function_exists('asset')) {
+if (! function_exists('asset')) {
     /**
      * @param $path
      * @param bool $secured
