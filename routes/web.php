@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+        
+use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,6 +15,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+use Laravel\Lumen\Routing\Router;
+
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+/** @var Router $router */
+
+
+Route::get('/[{id:[a-z0-9_-]+}]', ['as' => 'home', 'uses' => 'HomeController@index']);
