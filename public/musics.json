@@ -1,5 +1,147 @@
 {
     "musics": {
+        "take_me": {
+            "name": "Take Me",
+            "date": "22/01/2023",
+            "image": "https://i.imgur.com/U7ciBwv.png",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Take%20Me.mp3",
+                "youtube": "https://www.youtube.com/watch?v=LvTyMV7qySw",
+                "youtube_music": "https://music.youtube.com/watch?v=h-mA0a9W0C0&feature=share",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/take-me-1",
+                "spotify": "https://open.spotify.com/track/2AL1C14HexBsxUb3LiVC3y?si=3e9a45cdc44b46af",
+                "deezer": "https://deezer.page.link/PgyB2eTQLYCEF5VB8",
+                "apple_music": "https://music.apple.com/fr/album/take-me-single/1666733350",
+                "tidal": "https://tidal.com/browse/track/272454336"
+            }
+        },
+        "for_one_night": {
+            "name": "For One Night",
+            "date": "01/11/2022",
+            "image": "https://i.imgur.com/KOggTJF.png",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20For%20One%20Night.mp3",
+                "youtube": "https://www.youtube.com/watch?v=DPfzeMVZtGE",
+                "youtube_music": "https://music.youtube.com/watch?v=27TuoEqVevE&feature=share",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/for-one-night",
+                "spotify": "https://open.spotify.com/track/4TwmfEOVYwGTRBXR6fdSXV?si=ff5eb3410d574c01",
+                "deezer": "https://deezer.page.link/Pd5xQPqbrwin9oWG7",
+                "apple_music": "https://music.apple.com/fr/album/for-one-night-single/1652192521",
+                "tidal": "https://listen.tidal.com/album/257267864/track/257267865"
+            }
+        },
+        "bamboo": {
+            "name": "Bamboo",
+            "date": "03/08/2022",
+            "image": "https://i.imgur.com/afWSCAr.png",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Bamboo.mp3",
+                "youtube": "https://www.youtube.com/watch?v=21LWBz0avHA",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/losin-control",
+                "spotify": "https://open.spotify.com/track/7JTZihOjL3W6gUruI7lYlE?si=6ede31db3b2b411b",
+                "apple_music": "https://music.apple.com/fr/album/bamboo-single/1637679483",
+                "deezer": "https://deezer.page.link/5T1yQkMQBxHrGFzQ7"
+            }
+        },
+        "losin_control": {
+            "name": "Losin' Control",
+            "date": "22/05/2022",
+            "image": "https://i.imgur.com/70Noqpo.png",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Losin'%20Control.mp3",
+                "youtube": "https://www.youtube.com/watch?v=21LWBz0avHA",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/losin-control",
+                "spotify": "https://open.spotify.com/track/2TlqiKChDrT8XxKtHUfN9V?si=4b1f1844cae04a56",
+                "apple_music": "https://music.apple.com/us/album/losin-control/1625470676?i=1625470677",
+                "deezer": "https://deezer.page.link/xTc55YP1SQnbAhCJ8"
+            }
+        },
+        "infinity": {
+            "name": "Infinity",
+            "date": "23/02/2022",
+            "image": "https://i.imgur.com/izaGwaN.png",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Infinity.mp3",
+                "youtube": "https://www.youtube.com/watch?v=KbFXZwgx2P4",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/infinity",
+                "spotify": "https://open.spotify.com/track/3lka7IcXE01KYEJsDTOfdy?si=8fb4873510054629",
+                "apple_music": "https://music.apple.com/us/album/infinity/1610936254?i=1610936255",
+                "deezer": "https://www.deezer.com/fr/track/1662260982"
+            }
+        },
+        "piece_of_you": {
+            "name": "Piece Of You",
+            "date": "01/11/2021",
+            "image": "https://i.imgur.com/ajeNw78.png",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Piece%20Of%20You.mp3",
+                "youtube": "https://www.youtube.com/watch?v=2KBH6oX0swU",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/piece-of-you",
+                "spotify": "https://open.spotify.com/track/0BHFjelqI3pZ3jSl7tIGdr?si=e2d9540fe9ed482a",
+                "apple_music": "https://music.apple.com/us/album/piece-of-you-single/1592888100",
+                "deezer": "https://deezer.page.link/C2MfRVoQtLoHMzd77"
+            }
+        },
+
+        "love_got_you": {
+            "name": "Love Got You",
+            "date": "18/07/2021",
+            "image": "https://i.imgur.com/nzWJsS9.jpg",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Love%20Got%20You.mp3",
+                "youtube": "https://www.youtube.com/watch?v=2KBH6oX0swU",
+                "youtube_music": "https://www.youtube.com/watch?v=rUMcw32WkVk",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/love-got-you",
+                "spotify": "https://open.spotify.com/track/5GZzkt8h3V8CgUUiBh0b5B?si=13523e6150a64e56",
+                "apple_music": "https://music.apple.com/us/album/love-got-you/1576904358?i=1576904359",
+                "deezer": "https://www.deezer.com/fr/track/1436749892"
+            }
+        },
+        "apocalypse": {
+            "name": "Apocalypse",
+            "date": "06/06/2021",
+            "image": "https://i.imgur.com/xIpdrG0.jpg",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Apocalypse.mp3",
+                "youtube": "https://www.youtube.com/watch?v=xLVsMXpHKWs",
+                "youtube_music": "https://www.youtube.com/watch?v=2ffHxxJ16WQ",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/apocalypse",
+                "spotify": "https://open.spotify.com/track/0JIb06Ve5eJFdWTRVGYQyY?si=6f52109e459f41dc",
+                "apple_music": "https://music.apple.com/us/album/apocalypse/1570348991?i=1570348992",
+                "deezer": "https://www.deezer.com/fr/track/1391489322"
+            }
+        },
+        "feel_the_future__instrumental": {
+            "name": "Feel The Future (Instrumental)",
+            "date": "29/05/2021",
+            "image": "https://i1.sndcdn.com/artworks-Av2RrZatyxNVh0zX-kH0gZg-t500x500.jpg",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Fell%20The%20Future%20%28Instrumental%29.mp3",
+                "spotify": "https://open.spotify.com/track/05FOHcxndqKVVDYgrwrHL3?si=4f62bf9fe3bf4ca4"
+            }
+        },
+        "dreams__instrumental": {
+            "name": "Dreams (Instrumental)",
+            "date": "29/05/2021",
+            "image": "https://i.imgur.com/aME7rox.jpg",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Dreams%20%28Instrumental%29.mp3",
+                "spotify": "https://open.spotify.com/track/6aXAEClRe1nwVkUQBOGOBb?si=8df4bcc852464a96"
+            }
+        },
+        "thousand_galaxies": {
+            "name": "Thousand Galaxies",
+            "date": "08/05/2021",
+            "image": "https://i.imgur.com/4xrbKaC.jpg",
+            "providers": {
+                "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Thousand%20Galaxies.mp3",
+                "youtube": "https://www.youtube.com/watch?v=KaqP92rOY_I",
+                "soundcloud": "https://soundcloud.com/azenoxmusics/thousand-galaxies",
+                "spotify": "https://open.spotify.com/track/35dUjwSG9Xuqomo5RxUtPl?si=1530e6be61034ae3",
+                "apple_music": "https://music.apple.com/us/album/thousand-galaxies-single/1565579515?uo=4",
+                "deezer": "https://www.deezer.com/fr/track/1360170572"
+            }
+        },
         "wandering": {
             "name": "Wandering",
             "date": "20/02/2021",
@@ -120,11 +262,10 @@
         "universe": {
             "name": "Universe",
             "date": "21/06/2019",
-            "image": "https://i.imgur.com/msfc7Fe.jpg",
+            "image": "https://azenox.fr/azenox.png",
             "providers": {
                 "download": "https://hyperfollow.azenox.fr/musics/AzenoX%20-%20Universe.mp3",
-                "youtube": "https://www.youtube.com/watch?v=sisBUaaaDnk",
-                "soundcloud": "https://soundcloud.com/azenoxmusics/universe"
+                "youtube": "https://www.youtube.com/watch?v=sisBUaaaDnk"
             }
         },
         "interstellar_remix": {
